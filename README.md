@@ -2,10 +2,6 @@
 
 Copilot Studio の画面操作だけで、Microsoft Learn の公式ドキュメントとコード例を検索するエージェントを作成し、Microsoft 365 Copilot で利用できるようにする手順です。
 
-- Agents Toolkit、Visual Studio Code、CLI、コードは使いません。
-- Microsoft Learn の認定済み MCP コネクタを使います。URL や OAuth の手入力は不要です。
-- インストールリンクは使いません。共有後、Microsoft 365 Copilot のエージェント一覧から追加してピン留めします。
-
 このガイドでは、実際に作成した `Microsoft Learn ガイド` が Microsoft 365 Copilot で MCP を呼び出し、Microsoft Learn の根拠 URL 付きで回答するところまで確認します。
 
 Microsoft Learn MCP Server は、`https://learn.microsoft.com/api/mcp` で提供される Streamable HTTP のリモート MCP サーバーです。認証は不要で、現在は次の3ツールを提供します。
