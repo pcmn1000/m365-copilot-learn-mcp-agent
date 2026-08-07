@@ -93,8 +93,6 @@ Microsoft、Azure、Microsoft 365、Power Platform、.NET、Windows、開発者�
 1. エージェント上部の**ツール**を開きます。
 2. **ツールの追加**を選択します。
 
-![ツールの追加を選択](docs/images/03-add-tool.png)
-
 3. 検索欄に `Microsoft Learn` と入力します。
 4. 認定済みコネクタ **Microsoft Learn ドキュメント MCP サーバー**を選択します。
 
