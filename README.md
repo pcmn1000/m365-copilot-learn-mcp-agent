@@ -97,6 +97,7 @@ Microsoft、Azure、Microsoft 365、Power Platform、.NET、Windows、開発者�
 4. 認定済みコネクタ **Microsoft Learn ドキュメント MCP サーバー**を選択します。
 
 ![Microsoft Learn コネクタを検索](docs/images/04-search-microsoft-learn.png)
+
 「Microsoft Learn コンテンツを検索するMCPサーバー」と入力
 ![Microsoft Learn MCP コネクタの詳細](docs/images/05-connector-details.png)
 
@@ -139,10 +140,6 @@ Azure Functions の Flex Consumption プランの特徴を3つ、Microsoft Learn
 8. `microsoft_docs_search` が完了し、回答に Microsoft Learn の URL と引用が含まれることを確認します。
 
 ![MCP の3ツールを検出](docs/images/14-mcp-tools-discovered.png)
-
-![Microsoft Learn 検索を実行](docs/images/15-mcp-search-executed.png)
-
-![引用付きのテスト回答](docs/images/16-test-success.png)
 
 ## 4. 公開する
 
