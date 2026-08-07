@@ -30,7 +30,20 @@ Microsoft Learn MCP Server は、`https://learn.microsoft.com/api/mcp` で提供
 - 作成者にその環境の `Environment Maker` ロールがある
 - 組織の DLP ポリシーで Microsoft Learn コネクタの利用が許可されている
 
-Microsoft 公式情報では、認証済みユーザー向けの Copilot Studio は Microsoft 365 Copilot アドオン ライセンスに含まれます。Copilot ライセンスを持たない場合は、Copilot Credits または従量課金プランが選択肢になります。実際の課金はエージェントのハーネス、機能、契約によって異なるため、本番展開前に組織の契約と最新の[ライセンス情報](https://learn.microsoft.com/microsoft-copilot-studio/billing-licensing)を確認してください。
+### この構成の追加料金
+
+このガイドと同じ構成では、**Microsoft 365 Copilot ライセンスを持つ利用者が、本人の認証済み ID で Microsoft 365 Copilot または Teams からエージェントを使う場合、Copilot Studio の追加 Copilot Credits 課金はありません**。エージェントが呼び出す生成回答、ツール、エージェント アクションも、この条件では Microsoft 公式の料金表で `No charge` とされています。Microsoft Learn MCP Server 自体も無料です。
+
+つまり、利用者全員が Microsoft 365 Copilot ライセンスを持つ今回の使い方では、既存のライセンス料とは別に Copilot Studio 容量を購入する必要はありません。
+
+次の場合は別途課金またはライセンス確認が必要です。
+
+- Microsoft 365 Copilot ライセンスを持たない利用者が使う場合
+- エージェントからではないトリガーでエージェント フローを実行する場合
+- Computer-Using Agent や別料金の外部サービスを追加する場合
+- Microsoft 365 Copilot や Teams 以外のチャネル、匿名ユーザー向けに展開する場合
+
+この包含特典には fair usage limits が適用されます。条件は変更される可能性があるため、本番展開前に最新の[料金表](https://learn.microsoft.com/microsoft-copilot-studio/requirements-messages-management#copilot-credits-billing-rates)と[拡張機能のコスト](https://learn.microsoft.com/microsoft-365/copilot/extensibility/cost-considerations#licensing-options-for-microsoft-365-copilot)を確認してください。
 
 > [!NOTE]
 > 画面名や配置は更新によって変わる場合があります。このガイドのスクリーンショットは日本語 UI です。
@@ -294,4 +307,6 @@ Azure Functions の Flex Consumption プランの特徴を3つ、Microsoft Learn
 - [Teams と Microsoft 365 にエージェントを接続して構成する](https://learn.microsoft.com/microsoft-copilot-studio/publication-add-bot-to-microsoft-teams)
 - [Microsoft 365 Copilot 向けエージェントを公開する](https://learn.microsoft.com/microsoft-365/copilot/extensibility/publish)
 - [Copilot Studio のライセンスと課金](https://learn.microsoft.com/microsoft-copilot-studio/billing-licensing)
+- [Copilot Credits の料金表](https://learn.microsoft.com/microsoft-copilot-studio/requirements-messages-management#copilot-credits-billing-rates)
+- [Microsoft 365 Copilot 拡張機能のコスト](https://learn.microsoft.com/microsoft-365/copilot/extensibility/cost-considerations#licensing-options-for-microsoft-365-copilot)
 - [Microsoft 365 のエージェント管理ガイド](https://learn.microsoft.com/microsoft-365/copilot/agent-essentials/m365-agents-admin-guide)
