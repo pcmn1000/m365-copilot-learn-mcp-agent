@@ -166,10 +166,6 @@ Azure Functions の Flex Consumption プランの特徴を3つ、Microsoft Learn
 3. **[同僚による構築] に表示する**をオンにします。
 4. **共有**を選択します。
 
-![表示範囲の選択](docs/images/22-availability-options.png)
-
-![ユーザーと共有](docs/images/23-share-users.png)
-
 共有相手を限定すると、少人数で接続と回答品質を確認してから展開できます。
 
 ### 組織全体への展開
