@@ -260,21 +260,6 @@ Azure Functions の Flex Consumption プランの特徴を3つ、Microsoft Learn
 - Microsoft 365 Copilot を再読み込みし、エージェント一覧から追加してピン留めします。
 - 組織全体へ公開する場合は、管理者による承認状況を確認します。
 
-### Microsoft 365 Copilot で初回接続画面が出る
-
-正常な動作です。Copilot Studio のテストで接続済みでも、Microsoft 365 Copilot で初めて使う際に接続確認が表示されることがあります。接続済みを確認して**送信**し、エージェントへ戻って質問を再送信します。
-
-## 構成
-
-```text
-.
-|-- README.md
-`-- docs/
-    `-- images/    # 手順のスクリーンショット
-```
-
-このリポジトリにアプリ パッケージ、環境ファイル、認証情報は含まれません。
-
 ## 公式情報
 
 - [Microsoft Learn MCP Server の概要](https://learn.microsoft.com/training/support/mcp)
