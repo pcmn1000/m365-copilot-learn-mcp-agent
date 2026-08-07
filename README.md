@@ -146,12 +146,6 @@ Azure Functions の Flex Consumption プランの特徴を3つ、Microsoft Learn
 1. 右上の**公開**を選択します。
 2. 確認ダイアログでも**公開**を選択します。
 
-![公開を確認](docs/images/17-publish-confirm.png)
-
-![公開完了](docs/images/18-published.png)
-
-エージェントを変更した場合は、利用者へ反映するために再度公開します。
-
 ## 5. Microsoft 365 Copilot チャネルを追加する
 
 1. エージェント上部の**チャネル**を開きます。
