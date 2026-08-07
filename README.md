@@ -155,12 +155,7 @@ Azure Functions の Flex Consumption プランの特徴を3つ、Microsoft Learn
 
 3. **Microsoft 365 Copilot でエージェントを使用できるようにする**をオンにします。
 4. **チャネルを追加する**を選択します。
-
-![Microsoft 365 と Teams の設定](docs/images/20-m365-channel-settings.png)
-
 5. 「チャネルが追加されました」と表示されることを確認します。
-
-![チャネルの追加完了](docs/images/21-channel-added.png)
 
 ## 6. 利用者へ共有する
 
