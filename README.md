@@ -97,7 +97,7 @@ Microsoft、Azure、Microsoft 365、Power Platform、.NET、Windows、開発者�
 4. 認定済みコネクタ **Microsoft Learn ドキュメント MCP サーバー**を選択します。
 
 ![Microsoft Learn コネクタを検索](docs/images/04-search-microsoft-learn.png)
-
+「Microsoft Learn コンテンツを検索するMCPサーバー」と入力
 ![Microsoft Learn MCP コネクタの詳細](docs/images/05-connector-details.png)
 
 5. **新しい接続を作成する**を選択します。
@@ -131,8 +131,6 @@ Azure Functions の Flex Consumption プランの特徴を3つ、Microsoft Learn
 5. 必要に応じて接続を作成または更新し、状態が**接続済み**になったら**送信**を選択します。
 
 ![接続マネージャー](docs/images/11-connection-manager.png)
-
-![接続を送信](docs/images/12-submit-connection.png)
 
 ![接続が有効になった状態](docs/images/13-connection-active.png)
 
