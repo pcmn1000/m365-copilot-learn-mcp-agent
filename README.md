@@ -1,4 +1,4 @@
-# Microsoft Learn MCP エージェントを M365 Copilot で使う
+# Microsoft Learn MCP を M365 Copilot で使う方法・
 
 Copilot Studio の画面操作だけで、Microsoft Learn の公式ドキュメントとコード例を検索するエージェントを作成し、Microsoft 365 Copilot で利用できるようにする手順です。
 作成時間は15分です。
