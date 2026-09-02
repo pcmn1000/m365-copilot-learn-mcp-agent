@@ -30,7 +30,7 @@ Microsoft Learn MCP Server は、`https://learn.microsoft.com/api/mcp` で提供
 
 このガイドと同じ構成では、**Microsoft 365 Copilot ライセンスを持つ利用者が、本人の認証済み ID で Microsoft 365 Copilot または Teams からエージェントを使う場合、Copilot Studio の追加 Copilot Credits 課金はありません**。エージェントが呼び出す生成回答、ツール、エージェント アクションも、この条件では Microsoft 公式の料金表で `No charge` とされています。Microsoft Learn MCP Server 自体も無料です。
 
-つまり、利用者全員が Microsoft 365 Copilot ライセンスを持つ今回の使い方では、既存のライセンス料とは別に Copilot Studio 容量を購入する必要はありません。
+つまり、利用者が Microsoft 365 Copilot ライセンスを持つ今回の使い方では、既存のライセンス料とは別に Copilot Studio 容量を購入する必要はありません。
 
 次の場合は別途課金またはライセンス確認が必要です。
 
