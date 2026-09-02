@@ -1,4 +1,4 @@
-# Microsoft公式ドキュメントをわかりやすく解説するM365 Copilotエージェントの作り方
+# Microsoft公式ドキュメントをわかりやすく解説するCopilotエージェントの作り方
 
 Micorosoftの公式Learnサイトの日本語が分かりづらいと感じたことはありませんか？
 Copilot Studio の画面操作だけで、Microsoft Learn の公式ドキュメントとコード例を検索して分かりやすい日本語で解説するエージェントを作成し、Microsoft 365 Copilot で利用できるようにする手順です。
