@@ -23,7 +23,6 @@ Microsoft Learn MCP Server は、`https://learn.microsoft.com/api/mcp` で提供
 
 - Microsoft 365 Copilot ライセンスが作成者と利用者に割り当てられている
 - [Copilot Studio](https://copilotstudio.microsoft.com/) を開ける
-- 利用する Power Platform 環境に Dataverse がある
 - 作成者にその環境の `Environment Maker` ロールがある
 - 組織の DLP ポリシーで Microsoft Learn コネクタの利用が許可されている
 
