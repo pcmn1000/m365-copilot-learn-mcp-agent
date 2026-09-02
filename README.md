@@ -98,9 +98,7 @@ Microsoft、Azure、Microsoft 365、Power Platform、.NET、Windows、開発者�
 ![Microsoft Learn MCP コネクタの詳細](docs/images/05-connector-details.png)
 
 5. **新しい接続を作成する**を選択します。
-6. 接続作成画面で**作成**を選択します。このコネクタは認証不要のため、URL、クライアント ID、シークレットは入力しません。
-
-![新しい接続を作成](docs/images/06-create-connection.png)
+6. 接続作成画面で**作成**を選択します。接続名は任意です。
 
 ![Microsoft Learn MCP に接続](docs/images/07-connect-mcp.png)
 
